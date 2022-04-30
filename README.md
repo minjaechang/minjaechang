@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 I'm Minjae, a student learning web development 📚
 - 🔭 I’m currently studying at Developers Institute in New Zealand 🇳🇿
 - 🌱 I’m currently learning Python & AWS
+- ⚡ Fun fact: I have two cats, named Chanel and Dolce 🐱
 
 ## Tech Stack
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
