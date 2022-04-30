@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Hi there! 👋
-I'm Minjae, a student learning web developement 📚
+I'm Minjae, a student learning web development 📚
 - 🔭 I’m currently studying at Developers Institute in New Zealand 🇳🇿
 - 🌱 I’m currently learning Python & AWS
 
