@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ## Hi there! 👋
 I'm Minjae, a student learning web development 📚
 - 🔭 I’m currently studying at Developers Institute in New Zealand 🇳🇿
-- 🌱 I’m currently learning React and DevOps!
+- 🌱 I’m currently learning TypeScript ✏️
 - ⚡ Fun fact: I have two cats, named Chanel and Dolce 🐱
 
 ## Tech Stack
