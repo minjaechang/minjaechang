@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 I'm Minjae, a full-stack web development 📚
 - 🔭 I’m currently living in New Zealand 🇳🇿
 - 🌱 I’m currently learning TypeScript ✏️
-- ⚡ Fun fact: "Min" in my name means "Agile" 😝
 
 ## Tech Stack
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
